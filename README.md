@@ -1,1 +1,1 @@
-# rsschool-cv
+https://mayarosl.github.io/rsschool-cv/
