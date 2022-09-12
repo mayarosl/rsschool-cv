@@ -1,13 +1,13 @@
 # Maria Yaroslavtseva
 
+**React-developer**
+
 tel: +7 962 8780389
 
 telegram: @ymaria
 
 Discord: Maria Yarosl (@mayarosl)
-
-
-**React-developer**
+---
 
 **Stack:**
 
@@ -15,7 +15,7 @@ Discord: Maria Yarosl (@mayarosl)
 - HTML, CSS (SCSS, BEM)
 - Ant Design
 
-**Code example:**
+**Code example:** (React + Ant Design)
 
 ```JavaScript
 <Form.Item label="Title">
@@ -33,4 +33,4 @@ Discord: Maria Yarosl (@mayarosl)
 </Form.Item>
 ```
 
-English: C1
+**English:** C1
