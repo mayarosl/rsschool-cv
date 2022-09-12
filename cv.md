@@ -7,6 +7,7 @@ tel: +7 962 8780389
 telegram: @ymaria
 
 Discord: Maria Yarosl (@mayarosl)
+
 ---
 
 **Stack:**
